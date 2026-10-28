@@ -1,0 +1,15 @@
+version: 1
+project:
+  title: Machine Learning Book Study
+  authors:
+    - name: Mike Smith
+  keywords:
+    - machine-learning
+    - jupyter
+
+site:
+  template: book
+  nav:
+    - title: Chapter 1: Introduction
+      file: chapters/01_introduction.ipynb
+    
